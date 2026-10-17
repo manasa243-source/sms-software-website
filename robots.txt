@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# TODO: replace with your real URL
+Sitemap: https://YOUR-USERNAME.github.io/sms-software-website/sitemap.xml
